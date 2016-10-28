@@ -32,3 +32,37 @@
 \\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\exe203_Le_ThuyHang\taskD1\bin\System.Threading.Tasks.xml
 \\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.dll
 \\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\ApplicationInsights.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\taskD1.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\taskD1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\taskD1.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.IO.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.Threading.Tasks.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.IO.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.Runtime.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\bin\System.Threading.Tasks.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.csproj.App.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Centria ASP.Net\Ex2\Exe 2.3\exe203_Le_ThuyHang\taskD1\obj\Debug\taskD1.pdb
